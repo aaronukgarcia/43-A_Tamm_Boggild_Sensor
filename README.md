@@ -29,6 +29,7 @@ A 30 nm plasmonic metal film atop a self-assembled BCP multilayer stack (50--100
 ## Document
 
 :page_facing_up: **[43-A_Tamm_Boggild_Sensor_Formatted.docx](43-A_Tamm_Boggild_Sensor_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-A_Tamm_Boggild_Sensor_Formatted.pdf](43-A_Tamm_Boggild_Sensor_Formatted.pdf)** — PDF export
 
 ## Author
 
